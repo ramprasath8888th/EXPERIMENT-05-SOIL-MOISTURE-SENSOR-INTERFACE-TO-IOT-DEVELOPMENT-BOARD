@@ -562,7 +562,6 @@ Interfacing a Analog Input (soil moisture sensor) with ARM microcontroller based
 
 
 
-
 .
 
 
